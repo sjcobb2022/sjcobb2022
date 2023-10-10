@@ -1,8 +1,14 @@
-### Hi there 👋
+### Hi there, I'm Samuel 👋
 
-#### Samuel Cobb
+I find immense joy in solving problems and discovering elegant solutions.I embrace new challenges with enthusiasm, always seeking to expand my skills and tackle projects with a flexible approach.
 
-Software Engineer
+🚀I specialize in crafting applications that are not just functional but blazingly fast (🦀)
+
+🌱 I love learning through my development and growing as I try new things!
+
+🤖 I enjoy testing out new technologies and integrating them into my personal projects.
+
+### About me:
 
 **Languages I have used (ranked by most used and favourite 😋)**
 
@@ -12,6 +18,7 @@ Software Engineer
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat&logo=Laravel)
+![Haskell](https://img.shields.io/badge/-Haskell-000000?style=flat&logo=Haskell&logoColor=5D4F85)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
@@ -37,5 +44,3 @@ Software Engineer
 [![Current Dotfiles](https://img.shields.io/badge/-Dotfiles-000000?style=flat&logo=Slashdot&logoColor=026664)](https://github.com/sjcobb2022/nixos-config)
 
 [![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=sjcobb2022&theme=transparent&show=discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
-
-![Samuel's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sjcobb2022)
