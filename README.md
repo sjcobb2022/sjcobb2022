@@ -22,28 +22,28 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
 ![Nix](https://img.shields.io/badge/-Nix-000000?style=flat&logo=nixos)
 
-**Web/Full Stack projects**
+**My Links**
 
 [![My Website](https://img.shields.io/badge/-🧬&nbsp;&nbsp;My&nbsp;Website-000000?style=flat)](https://sjcobb.pages.dev)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=flat&logo=linkedin)](https://www.linkedin.com/in/samuel-cobb-752780271/)
 
 **Cybersecurity projects**
 
-[![Heartbleed](https://img.shields.io/badge/-🩸&nbsp;Heartbleed-000000?style=flat)](https://github.com/adamalston/Heartbleed)
-[![SYN Flood](https://img.shields.io/badge/-🌊&nbsp;&nbsp;SYN&nbsp;Flood-000000?style=flat)](https://github.com/adamalston/SYN-Flood)
-[![Packet Sniffing & Spoofing](https://img.shields.io/badge/-🗃️&nbsp;Packet&nbsp;Sniffing&nbsp;&&nbsp;Spoofing-000000?style=flat)](https://github.com/adamalston/Packet-Sniffing-and-Spoofing)
-[![SQL Injection](https://img.shields.io/badge/-💉&nbsp;&nbsp;SQL&nbsp;Injection-000000?style=flat)](https://github.com/adamalston/SQL-Injection)
-[![Spectre & Meltdown](https://img.shields.io/badge/-🛡️&nbsp;Spectre&nbsp;&&nbsp;Meltdown-000000?style=flat)](https://github.com/adamalston/Meltdown-Spectre)
+<!-- [![Heartbleed](https://img.shields.io/badge/-🩸&nbsp;Heartbleed-000000?style=flat)](https://github.com/adamalston/Heartbleed) -->
+<!-- [![SYN Flood](https://img.shields.io/badge/-🌊&nbsp;&nbsp;SYN&nbsp;Flood-000000?style=flat)](https://github.com/adamalston/SYN-Flood) -->
+<!-- [![Packet Sniffing & Spoofing](https://img.shields.io/badge/-🗃️&nbsp;Packet&nbsp;Sniffing&nbsp;&&nbsp;Spoofing-000000?style=flat)](https://github.com/adamalston/Packet-Sniffing-and-Spoofing) -->
+<!-- [![SQL Injection](https://img.shields.io/badge/-💉&nbsp;&nbsp;SQL&nbsp;Injection-000000?style=flat)](https://github.com/adamalston/SQL-Injection) -->
+<!-- [![Spectre & Meltdown](https://img.shields.io/badge/-🛡️&nbsp;Spectre&nbsp;&&nbsp;Meltdown-000000?style=flat)](https://github.com/adamalston/Meltdown-Spectre) -->
 
 **Other projects**
 
-[![Clean My Mac](https://img.shields.io/badge/-🧼&nbsp;&nbsp;Clean&nbsp;My&nbsp;Mac-000000?style=flat)](https://github.com/adamalston/Clean-My-Mac)
-[![SMTP](https://img.shields.io/badge/-📧&nbsp;&nbsp;SMTP-000000?style=flat)](https://github.com/adamalston/SMTP)
-[![Network Tools](https://img.shields.io/badge/-📡&nbsp;&nbsp;Network&nbsp;Tools-000000?style=flat)](https://github.com/adamalston/Network-Tools)
-[![Cache Simulator](https://img.shields.io/badge/-⛓️&nbsp;Cache&nbsp;Simulator-000000?style=flat)](https://github.com/adamalston/CacheSimulator)
-[![RGB Text Colorizer](https://img.shields.io/badge/-🌈&nbsp;&nbsp;RGB&nbsp;Text&nbsp;Colorizer-000000?style=flat)](https://github.com/adamalston/rgbTextColorizer)
+<!-- [![Clean My Mac](https://img.shields.io/badge/-🧼&nbsp;&nbsp;Clean&nbsp;My&nbsp;Mac-000000?style=flat)](https://github.com/adamalston/Clean-My-Mac) -->
+<!-- [![SMTP](https://img.shields.io/badge/-📧&nbsp;&nbsp;SMTP-000000?style=flat)](https://github.com/adamalston/SMTP) -->
+<!-- [![Network Tools](https://img.shields.io/badge/-📡&nbsp;&nbsp;Network&nbsp;Tools-000000?style=flat)](https://github.com/adamalston/Network-Tools) -->
+<!-- [![Cache Simulator](https://img.shields.io/badge/-⛓️&nbsp;Cache&nbsp;Simulator-000000?style=flat)](https://github.com/adamalston/CacheSimulator) -->
+<!-- [![RGB Text Colorizer](https://img.shields.io/badge/-🌈&nbsp;&nbsp;RGB&nbsp;Text&nbsp;Colorizer-000000?style=flat)](https://github.com/adamalston/rgbTextColorizer) -->
 
-[![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=sjcobb2022)](https://github.com/anuraghazra/github-readme-stats)
+[![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=sjcobb2022&theme=transparent&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- <h1> -->
 <!--     <a href=""> -->
