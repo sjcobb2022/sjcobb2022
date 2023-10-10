@@ -2,7 +2,7 @@
 
 I love solving problems, finding elegant solutions, and approaching new challenges with enthusiasm, always eager to expand my skills and tackle new projects.
 
-🚀I specialize in crafting applications that are not just functional but blazingly fast (🦀)
+🚀 I specialize in crafting applications that are not just functional but blazingly fast (🦀)
 
 🌱 I love learning through my development and growing as I try new things!
 
