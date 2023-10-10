@@ -43,8 +43,10 @@
 [![Cache Simulator](https://img.shields.io/badge/-⛓️&nbsp;Cache&nbsp;Simulator-000000?style=flat)](https://github.com/adamalston/CacheSimulator)
 [![RGB Text Colorizer](https://img.shields.io/badge/-🌈&nbsp;&nbsp;RGB&nbsp;Text&nbsp;Colorizer-000000?style=flat)](https://github.com/adamalston/rgbTextColorizer)
 
-<h1>
-    <a href="">
-        <img align="" height='130px' src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sjcobb2022)](https://github.com/anuraghazra/github-readme-stats)" /><img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjcobb2022&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite" />
-    </a>
-</h1>
+[![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=sjcobb2022)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- <h1> -->
+<!--     <a href=""> -->
+<!-- <img align="" height='130px' src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sjcobb2022)](https://github.com/anuraghazra/github-readme-stats)" /><img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjcobb2022&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite" /> -->
+<!--     </a> -->
+<!-- </h1> -->
