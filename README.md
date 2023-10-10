@@ -1,6 +1,6 @@
 ### Hi there, I'm Samuel 👋
 
-I find immense joy in solving problems and discovering elegant solutions.I embrace new challenges with enthusiasm, always seeking to expand my skills and tackle projects with a flexible approach.
+I love solving problems, finding elegant solutions, and approaching new challenges with enthusiasm, always eager to expand my skills and tackle new projects.
 
 🚀I specialize in crafting applications that are not just functional but blazingly fast (🦀)
 
