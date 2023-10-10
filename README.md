@@ -25,7 +25,7 @@
 **Web/Full Stack projects**
 
 [![My Website](https://img.shields.io/badge/-🧬&nbsp;&nbsp;My&nbsp;Website-000000?style=flat)](https://sjcobb.pages.dev)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn&nbsp;LinkedIn-000000?style=flat)](https://www.linkedin.com/in/samuel-cobb-752780271/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=flat&logo=linkedin)](https://www.linkedin.com/in/samuel-cobb-752780271/)
 
 **Cybersecurity projects**
 
@@ -45,6 +45,6 @@
 
 <h1>
     <a href="">
-        <img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=sjcobb2022&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamalston&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite" />
+        <img align="" height='130px' src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sjcobb2022)](https://github.com/anuraghazra/github-readme-stats)" /><img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjcobb2022&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite" />
     </a>
 </h1>
