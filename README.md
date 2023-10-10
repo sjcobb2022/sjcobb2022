@@ -1,16 +1,12 @@
 ### Hi there 👋
 
-[![Header](https://github.com/adamalston/adamalston/raw/master/profile.gif)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-
-[![adamalston.com](https://img.shields.io/badge/-ADAMALSTON.COM-000000?style=for-the-badge&logo=react&logoColor=white)](https://www.adamalston.com/)
-
 **Languages I have used**
 
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
-![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=Clojure)
+![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=Rust)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java&logoColor=007396)
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=007ACC)
@@ -19,20 +15,17 @@
 
 **Some of the technologies I have worked with**
 
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
 ![Jira](https://img.shields.io/badge/-Jira-000000?style=flat&logo=jira-software&logoColor=white&logoColor=0052CC)
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
-![Nix](https://img.shields.io/badge/-Nix-000000?style=flat&logo=nixos&logoColor=339933)
+![Nix](https://img.shields.io/badge/-Nix-000000?style=flat&logo=nixos)
 
 **Web/Full Stack projects**
 
-[![My Website](https://img.shields.io/badge/-🧬&nbsp;&nbsp;My&nbsp;Website-000000?style=flat)](https://github.com/adamalston/v2)
-[![COVID-19 Dashboard](https://img.shields.io/badge/-🦠&nbsp;COVID&#8209;19&nbsp;Dashboard-000000?style=flat)](https://github.com/adamalston/COVID-19-Dashboard)
-[![Summarizer](https://img.shields.io/badge/-📰&nbsp;&nbsp;Summarizer-000000?style=flat)](https://github.com/adamalston/Summarizer)
-[![Voice Poker](https://img.shields.io/badge/-🃏&nbsp;Voice&nbsp;Poker-000000?style=flat)](https://github.com/adamalston/Poker)
-[![PokémonGo Map](https://img.shields.io/badge/-🗺️&nbsp;PokémonGo&nbsp;Map-000000?style=flat)](https://github.com/adamalston/PokemonGo-Map)
+[![My Website](https://img.shields.io/badge/-🧬&nbsp;&nbsp;My&nbsp;Website-000000?style=flat)](https://sjcobb.pages.dev)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn&nbsp;LinkedIn-000000?style=flat)](https://www.linkedin.com/in/samuel-cobb-752780271/)
 
 **Cybersecurity projects**
 
