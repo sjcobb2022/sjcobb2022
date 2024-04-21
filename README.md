@@ -1,7 +1,5 @@
 ### Hi there, I'm Samuel 👋
 
-I love solving problems, finding elegant solutions, and approaching new challenges with enthusiasm, always eager to expand my skills and tackle new projects.
-
 ### About me:
 
 **Languages I enjoy**
