@@ -31,4 +31,4 @@ I love solving problems, finding elegant solutions, and approaching new challeng
 [![Email](https://img.shields.io/badge/-Email-000000?style=flat&logo=Gmail&logoColor=EA4335)](mailto:sjcobb2003@gmail.com)
 [![Current Dotfiles](https://img.shields.io/badge/-Dotfiles-000000?style=flat&logo=Slashdot&logoColor=026664)](https://github.com/sjcobb2022/nixos-config)
 
-[![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=sjcobb2022&theme=transparent&show=discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=sjcobb2022&theme=dark&hide_border=true&card_width=500)](https://git.io/streak-stats)
