@@ -10,13 +10,11 @@ I love solving problems, finding elegant solutions, and approaching new challeng
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=007ACC)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![Haskell](https://img.shields.io/badge/-Haskell-000000?style=flat&logo=Haskell&logoColor=5D4F85)
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=PHP)
 
-**Some of the technologies I have worked with (and love ❤️)**
+**Some of the technologies I work with**
 
 ![GitHub Actions](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
