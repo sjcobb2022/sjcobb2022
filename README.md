@@ -27,4 +27,4 @@
 [![Email](https://img.shields.io/badge/-Email-000000?style=flat&logo=Gmail&logoColor=EA4335)](mailto:sjcobb2003@gmail.com)
 [![Current Dotfiles](https://img.shields.io/badge/-Dotfiles-000000?style=flat&logo=Slashdot&logoColor=026664)](https://github.com/sjcobb2022/nixos-config)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=sjcobb2022&theme=transparent)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=sjcobb2022&theme=transparent&hide_border=true)](https://git.io/streak-stats)
