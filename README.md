@@ -12,7 +12,7 @@
 
 **Some of the technologies I work with**
 
-![GH Actions](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
+![Github Actions](https://img.shields.io/badge/-GitHub Actions-000000?style=flat&logo=github&logoColor=FFFFFF)
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
 ![Nix](https://img.shields.io/badge/-Nix-000000?style=flat&logo=nixos)
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare&nbsp;Pages-000000?style=flat&logo=Cloudflare&logoColor=F38020)
