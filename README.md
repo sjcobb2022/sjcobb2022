@@ -1,1 +1,1 @@
-sjcobb.pages.dev/blog
+https://sjcobb.pages.dev/blog
