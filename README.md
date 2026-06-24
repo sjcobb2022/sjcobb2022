@@ -1,1 +1,1 @@
-https://sjcobb2022.github.io/blog/
+https://blog.sjc03.org
